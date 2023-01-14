@@ -2,15 +2,15 @@
 
 A portfolio website template for campers
 
-![jane-doe](jane-shot.png)
+![savita navalgi]
 
 ## Author
 
-[@koladechris](https://www.twitter.com/koladechris)
+[@savi0301](https://github.com/Savi0301/)
 
 ## Github repo
 
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
+This is the [link](https://github.com/Savi0301/portfolio/) to the Github repo of the project
 
 ## Sample Website
 
