@@ -7,9 +7,7 @@
 
 This is the [link](https://github.com/Savi0301/portfolio) to the Github repo of the project
 
-## Sample Website
-
-A live demo is already available via this [link](https://savi0301.github.io/portfolio/)
+Demo [link](https://savi0301.github.io/portfolio/)
 
 ## Tech Stack
 
