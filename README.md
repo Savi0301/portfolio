@@ -7,11 +7,11 @@
 
 This is the [link](https://github.com/Savi0301/portfolio) to the Github repo of the project
 
-Demo [link](https://savi0301.github.io/portfolio/)
+Visit Portfolio [Link](https://savi0301.github.io/portfolio/)
 
 ## Tech Stack
 
-**Client:** HTML, CSS,  JavaSCript
+HTML, CSS,  JavaSCript
 
 
 ## Folder Structure
