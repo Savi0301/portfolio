@@ -11,7 +11,7 @@ Visit Portfolio [Link](https://savi0301.github.io/portfolio/)
 
 ## Tech Stack
 
-HTML, CSS,  JavaSCript
+HTML, CSS,  JavaScript
 
 
 ## Folder Structure
